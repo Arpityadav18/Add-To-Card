@@ -1,0 +1,20 @@
+.navbar-header{
+    margin-top: 10px;    
+    position:relative;
+    margin-bottom: 2px;
+}
+
+.form-control{
+    border-radius: 10px;
+    width: 600px;
+    margin-left: 20px;    
+    margin-top: 2px;
+}
+
+.search-icon{
+    position: absolute;
+    z-index: 10;
+    right: 30%;
+    margin-top: 12px;
+    color: blue;
+}
